@@ -56,6 +56,7 @@ Além disso, possuo o diferencial em desenvolvimento web (HTML, CSS e JavaScript
 
 🔹 **Análise Automatizadas de Municipios**
 
+* Interface interativa
 * Análise exploratória de dados
 * Limpeza e transformação de dados com Python
 * Identificação de tendências e padrões de Dados Meteorológicos
